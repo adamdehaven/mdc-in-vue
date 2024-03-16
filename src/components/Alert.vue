@@ -35,6 +35,7 @@
 }
 
 .footer {
+    color: #fff;
     background-color: #042f2e;
     font-size: 12px;
     line-height: 1;

@@ -2652,7 +2652,7 @@ packages:
     dev: true
 
   file:nuxtjs-mdc-0.6.1.tgz:
-    resolution: {integrity: sha512-ry+NhnDCeYIh29q9B2FU32s+5wSmGGGhtgopJhq9np94aS6d5gFgxoqDv+S+0faRw+hESo0ul0aLvEmuOn+lhA==, tarball: file:nuxtjs-mdc-0.6.1.tgz}
+    resolution: {integrity: sha512-V8fALNvLFB2FhktpuISF+9iebJIXRX8++hgPqi/LQGiAllHrkWBh7hMC4wI3Kla8yH1CO++dJzf1QfFe+IzHrQ==, tarball: file:nuxtjs-mdc-0.6.1.tgz}
     name: '@nuxtjs/mdc'
     version: 0.6.1
     dependencies:
