@@ -14,8 +14,8 @@ dependencies:
 
 devDependencies:
   '@nuxtjs/mdc':
-    specifier: file:nuxtjs-mdc-local.tgz
-    version: file:nuxtjs-mdc-local.tgz
+    specifier: file:nuxtjs-mdc-0.6.1.tgz
+    version: file:nuxtjs-mdc-0.6.1.tgz
   '@vitejs/plugin-vue':
     specifier: ^5.0.4
     version: 5.0.4(vite@5.1.5)(vue@3.4.21)
@@ -2651,10 +2651,10 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: true
 
-  file:nuxtjs-mdc-local.tgz:
-    resolution: {integrity: sha512-LP99vM26trjNPK2siSsZCNQUEaSho6tPMI5ciWnbCJpSCu3eeBMqcSlXuXkeAkXISSgkXq/6Uiu/qcOSzM24lg==, tarball: file:nuxtjs-mdc-local.tgz}
+  file:nuxtjs-mdc-0.6.1.tgz:
+    resolution: {integrity: sha512-ry+NhnDCeYIh29q9B2FU32s+5wSmGGGhtgopJhq9np94aS6d5gFgxoqDv+S+0faRw+hESo0ul0aLvEmuOn+lhA==, tarball: file:nuxtjs-mdc-0.6.1.tgz}
     name: '@nuxtjs/mdc'
-    version: 0.5.0
+    version: 0.6.1
     dependencies:
       '@nuxt/kit': 3.10.3
       '@shikijs/transformers': 1.1.7
