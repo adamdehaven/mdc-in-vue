@@ -13,7 +13,7 @@
     "vue": "^3.4.21"
   },
   "devDependencies": {
-    "@nuxtjs/mdc": "file:nuxtjs-mdc-0.6.1.tgz",
+    "@nuxtjs/mdc": "npm:@nuxtjs/mdc-edge@0.6.2-28517347.0c8167c",
     "@vitejs/plugin-vue": "^5.0.4",
     "typescript": "^5.2.2",
     "vite": "^5.1.5",

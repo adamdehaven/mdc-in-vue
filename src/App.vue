@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onBeforeMount, ref } from "vue";
 // Import package exports
-import MDCRenderer from "@nuxtjs/mdc/runtime/components/MDCRenderer";
+import MDCRenderer from "@nuxtjs/mdc/runtime/components/MDCRenderer.vue";
 import type { MDCParserResult } from "@nuxtjs/mdc/runtime/types/index";
 // Import composable
 import useMarkdownParser from "./composables/useMarkdownParser";
